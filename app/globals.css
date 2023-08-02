@@ -33,7 +33,7 @@
 }
 
 .custom-btn {
-  @apply flex flex-row relative justify-center items-center py-3 px-6 outline-none;
+  @apply flex flex-row relative justify-center items-center py-2 px-5 outline-none;
 }
 /* END: General styles */
 
@@ -43,11 +43,11 @@
 }
 
 .hero__title {
-  @apply 2xl:text-[72px] sm:text-[64px] text-[50px] font-extrabold;
+  @apply 2xl:text-[70px] sm:text-[64px] text-[50px] font-extrabold;
 }
 
 .hero__subtitle {
-  @apply text-[27px] text-black-100 font-light mt-5;
+  @apply text-[26px] text-black-100 font-light mt-5;
 }
 
 .hero__image-container {
